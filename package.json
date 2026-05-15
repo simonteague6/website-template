@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "devDependencies": {
+    "@aws-sdk/region-config-resolver": "^3.0.0",
     "serverless": "^3.40.0",
     "serverless-lift": "^1.35.0"
   }
